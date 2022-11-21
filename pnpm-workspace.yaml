@@ -1,0 +1,6 @@
+packages:
+  - packages/*
+  - playground
+  - docs
+  - apps
+  - templates
